@@ -1,0 +1,3 @@
+[submodule "JGLUE"]
+	path = JGLUE
+	url = git@github.com:Katsumata420/JGLUE.git
